@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  #results {
+    margin-top: 20px;
+    border-top: 1px solid #ccc;
+    padding-top: 10px;
+  }
+  
